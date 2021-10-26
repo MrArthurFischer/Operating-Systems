@@ -1,1 +1,4 @@
 # Operating-Systems
+
+- Powershellscripts
+- Linuxscripts
